@@ -1,0 +1,18 @@
+[project]
+name = "605-final-image-classification"
+version = "0.1.0"
+description = "AI image detection using EfficientNet-B0 and DeiT-Tiny on the ArtiFact dataset"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "torch>=2.1",
+    "torchvision>=0.16",
+    "timm==1.0.11",
+    "kagglehub",
+    "pandas",
+    "pillow",
+    "scikit-learn",
+    "onnxruntime",
+    "numpy",
+    "jupyter",
+    "ipykernel",
+]
