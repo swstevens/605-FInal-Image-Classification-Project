@@ -12,6 +12,7 @@ dependencies = [
     "pillow",
     "scikit-learn",
     "onnxruntime",
+    "onnxscript",
     "numpy",
     "jupyter",
     "ipykernel",
