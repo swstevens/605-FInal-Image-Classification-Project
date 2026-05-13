@@ -1,1 +1,6 @@
 data/
+kaggle.json
+checkpoints/
+test_images/
+.ipynb_checkpoints/
+.venv/
